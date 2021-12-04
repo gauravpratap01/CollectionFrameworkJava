@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-02T15:39:47 SGT" name="Default suite" finished-at="2021-11-02T15:39:47 SGT" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2021-11-02T15:39:47 SGT" name="Default test" finished-at="2021-11-02T15:39:47 SGT" duration-ms="34">
+      <class name="CommonJava.CommonJava.HashMapImpl">
+        <test-method signature="loginWithAdmin()[pri:0, instance:CommonJava.CommonJava.HashMapImpl@6e509ffa]" started-at="2021-11-02T15:39:47 SGT" name="loginWithAdmin" finished-at="2021-11-02T15:39:47 SGT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithAdmin -->
+      </class> <!-- CommonJava.CommonJava.HashMapImpl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
